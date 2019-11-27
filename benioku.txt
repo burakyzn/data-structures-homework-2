@@ -1,0 +1,2 @@
+-Hem derleme hem çalışma anında programın düzgün çalışması için içerik.txt dosyası hem bin hem genel klasörün içine koyulmuştur.
+-Doc klasörünün içine koyulduğunda hem derleme hem çalışma anı için ayarlanamıyordu. Bunu göz önüne olarak işlem yapınız.
